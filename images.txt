@@ -1,1 +1,1 @@
---plantform linux/arm64/v8 cloudflare/cloudflared:latest
+--platform linux/arm64/v8 cloudflare/cloudflared:latest
