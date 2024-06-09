@@ -1,2 +1,1 @@
-alpine
-cloudflare/cloudflared:latest
+--plantform linux/arm64/v8 cloudflare/cloudflared:latest
