@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 cloudflare/cloudflared:latest
+cloudflare/cloudflared:latest-arm64
